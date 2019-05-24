@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practical Test 02</string>
+    <string name="server">SERVER</string>
+    <string name="server_port">Port</string>
+    <string name="connect">START</string>
+    <string name="client">CLIENT</string>
+    <string name="client_address">Address</string>
+    <string name="client_port">Port</string>
+    <string name="WORD">Word</string>
+    <string name="nr">Nr</string>
+    <string name="anagrams">Get Anagrams</string>
+</resources>
